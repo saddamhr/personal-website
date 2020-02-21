@@ -9,7 +9,7 @@ h3{
 
 h1{
   font-size: 50px;
-  color: #ff0066;
+  color: #0C9AB9;;
 }
 
 .half-section p{
@@ -20,11 +20,11 @@ h1{
 
 .button-style{
   text-decoration: none;
-  background-color: #ff0066;
+  background-color: #0C9AB9;;
   padding: 8px 25px;
   border-radius: 5px;
   font-weight: bold;
-  color: white;
+  color: rgb(255, 255, 255);
 }
 
 .half-section{
@@ -48,7 +48,7 @@ h1{
   background-image: url("images/biography-bg.png");
   background-repeat: no-repeat;
   background-position: left;
-  height: 600px;
+  height: 650px;
   padding-bottom: 150px;
 }
 
@@ -81,8 +81,8 @@ h4{
 
 .contact-section{
   margin: auto;
-  background-color: #ff0066;
-  padding: 15px 25px;
+  background-color: #0C9AB9;
+  padding: 10px 25px;
   border-radius: 5px;
   height: 80px;
   width: 500px;
@@ -105,7 +105,7 @@ h4{
   text-align: center;
 }
 
-.cse-quote{
+.ceo-quote{
   height: 10px;
   width: 400px;
   margin: auto;
@@ -117,4 +117,22 @@ h4{
   background-position: center;
   height: 300px;
   padding-bottom: 150px;
+}
+
+.footer-style{
+  background-color:#4A4A4A;
+  text-align: center;
+  padding: 10;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-radius: 10px;
+}
+.footer-style a{
+  color:white;
+  text-decoration: none;
+  margin: 20px;
+}
+.footer-style p{
+  color: white;
+  margin-top: 20px;
 }
